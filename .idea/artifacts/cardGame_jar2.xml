@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cardGame:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/cardGame_jar2</output-path>
+    <root id="archive" name="cardGame.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/com/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cardGame" />
+    </root>
+  </artifact>
+</component>
